@@ -3,6 +3,8 @@
 ## Project Overview
 This project involves extracting and analyzing financial data from 10-K filings of major companies (Microsoft, Tesla, and Apple). The goal is to identify key financial trends and indicators, clean the data, and prepare it for further AI-based processing.
 
+Analysis: https://github.com/AVAlogix/Financial-Data-Analysis-Project/blob/main/BCGX.ipynb
+
 ## Steps Involved
 
 ### Step 1: Data Extraction
